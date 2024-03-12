@@ -25,9 +25,9 @@
 ## Descrição do projeto 
 
 <p align="justify">
- Projeto em desenvolvimento para disciplina Instrumentação Biomédica II do curso de Engenharia Biomédica. O GlicoCare é um sistema de telemonitoramento domiciliar para a atenção especializada de pessoas acometidas por diabetes mellitus.
+ Projeto em desenvolvimento para empresa onde estou trabalhando. O projeto nada mais é que um sistema de apresentacao da empresa especializada em alarme anti-incendio.
 
-O sistema permitirá o monitoramento diário, contínuo e remoto do nível de glicose no sangue (glicemia), possibilitando que familiares, cuidadores, profissionais da saúde ou o próprio paciente acompanhem o estado clínico do mesmo.
+O Site permite que os clientes possam olhar os equipamentos que trabalhamos, servicos que prestamos e enviar menssagem para nos no campo ENTRE EM CONTATO. o monitoramento do email eh diário e com isso respondemos o mais rapido possivel.
 
 ![Descrição do projeto GlicoCare, onde se tem um paciente medindo glicose com um glicosímetro, conectado via Bluetooth ao aplicativo que o profissional da saúde tem acesso.](https://user-images.githubusercontent.com/37356058/132422764-5a4e5300-7b04-4411-9126-387a445bc627.png)
 </p>
