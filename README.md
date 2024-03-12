@@ -55,7 +55,7 @@ O Site permite que os clientes possam olhar os equipamentos que trabalhamos, ser
 
 ## Acesso ao projeto
 
-Você pode [acessar o código fonte do projeto](https://github.com/camilafernanda/GlicoCare) ou [baixá-lo](https://github.com/camilafernanda/GlicoCare/archive/refs/heads/main.zip).
+Você pode [acessar o código fonte do projeto](https://github.com/ThiagoMoletta/SiteJKProjeto) ou [baixá-lo](https://github.com/camilafernanda/GlicoCare/archive/refs/heads/main.zip).
 
 ## Abrir e rodar o projeto
 
