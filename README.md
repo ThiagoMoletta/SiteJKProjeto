@@ -30,7 +30,7 @@
 
 O Site permite que os clientes possam olhar os equipamentos que trabalhamos, servicos que prestamos e enviar menssagem para nos no campo ENTRE EM CONTATO. o monitoramento do email eh diário e com isso respondemos o mais rapido possivel.
 
-![Descrição do projeto GlicoCare, onde se tem um paciente medindo glicose com um glicosímetro, conectado via Bluetooth ao aplicativo que o profissional da saúde tem acesso.](https://user-images.githubusercontent.com/37356058/132422764-5a4e5300-7b04-4411-9126-387a445bc627.png)
+![cliente](https://github.com/ThiagoMoletta/SiteJKProjeto/assets/108143627/d3cf4dc4-9a8b-43c1-8f22-909a829d9e77)
 </p>
 
 ## Funcionalidades
