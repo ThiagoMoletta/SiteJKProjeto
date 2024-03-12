@@ -13,8 +13,6 @@
 
 - [Funcionalidades](#funcionalidades)
 
-- [Aplicação](#aplicação)
-
 - [Ferramentas utilizadas](#ferramentas-utilizadas)
 
 - [Acesso ao projeto](#acesso-ao-projeto)
@@ -43,15 +41,6 @@ O Site permite que os clientes possam olhar os equipamentos que trabalhamos, ser
 
 :heavy_check_mark: `Funcionalidade 4:` Contato entre o paciente e um mebro especializado da empresa.
 
-## Aplicação
-
-<div align="center">
-
-![Android Emulator](https://user-images.githubusercontent.com/37356058/135944390-ec96d4ec-ee43-4db9-882f-89be66aad23a.gif)
-
-  </div>
-
-###
 
 ## Ferramentas utilizadas
 
