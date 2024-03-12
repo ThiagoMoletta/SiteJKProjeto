@@ -43,8 +43,12 @@ O Site permite que os clientes possam olhar os equipamentos que trabalhamos, ser
 
 
 ## Ferramentas utilizadas
-- ``Java 8``
-- ``InteliJ IDEA``
+- ``Java ``
+- ``JS``
+- ``HTML``
+- ``CSS``
+- ``JPA``
+- ``MYSQL``
 - ``Paradigma de orientação a objetos``
 
 ###
