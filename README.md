@@ -62,7 +62,7 @@ Você pode [acessar o código fonte do projeto](https://github.com/ThiagoMoletta
 Após baixar o projeto e Query SQL, você pode abrir com o seu Netbeans o projeto e em seu Mysql voce pode executar para criar o banco de dados.
 
 - No Mysql: 
-- Voce ira executar a Query SQL e criar um novo user "root" passward "mysql"
+- Voce ira executar a Query SQL e criar um novo user "root" password "mysql"
 
 - No NetBeans:
 - `Open Project` (ou alguma opção similar);
