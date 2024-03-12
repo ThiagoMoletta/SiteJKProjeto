@@ -1,4 +1,5 @@
-![jklogo](https://github.com/ThiagoMoletta/SiteJKProjeto/assets/108143627/dcad5767-d6ff-4a2c-b2d1-fd6d11ff8e1f)
+
+![jklogo](https://github.com/ThiagoMoletta/SiteJKProjeto/assets/108143627/ced1177a-aa7a-4f08-be41-a12e05ff7d8f)
 
 <hr>
 
