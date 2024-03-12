@@ -43,10 +43,9 @@ O Site permite que os clientes possam olhar os equipamentos que trabalhamos, ser
 
 
 ## Ferramentas utilizadas
-
-<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-
-<a href="https://developer.android.com/studio" target="_blank"> <img src="https://developer.android.com/images/logos/android.svg" alt="androidStudio" width="40" height="40"/> </a> <a href="https://firebase.google.com/?hl=pt" target="_blank"> <img src="https://www.gstatic.com/mobilesdk/160503_mobilesdk/logo/2x/firebase_96dp.png" alt="firebase" width="40" height="40"/> </a>
+- ``Java 8``
+- ``InteliJ IDEA``
+- ``Paradigma de orientação a objetos``
 
 ###
 
