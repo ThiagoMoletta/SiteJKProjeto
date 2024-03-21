@@ -59,7 +59,7 @@ Você pode [acessar o código fonte do projeto](https://github.com/ThiagoMoletta
 
 ## Abrir e rodar o projeto
 
-Após baixar o projeto e Query SQL, você pode abrir com o seu Netbeans o projeto e em seu Mysql voce pode executar para as query para criar usuario e senha e apos executar as query para o banco de dados.
+Após baixar o projeto e as Querys SQL, primeiro voce vai executar a query para criacao de um novo usuario com senha e dar a ele os privilégios apos isso voce vai executar a query para criacao de banco de dados e tabela.
 
 - No Mysql: 
 - Voce ira executar a Query SQL e criar um novo user "root" password "mysql"
@@ -68,6 +68,7 @@ Após baixar o projeto e Query SQL, você pode abrir com o seu Netbeans o projet
 - `Open Project` (ou alguma opção similar);
 - Procure o local onde o projeto está e o selecione (Caso o projeto seja baixado via zip, é necessário extraí-lo antes de procurá-lo);
 - Por fim clique em `OK`.
+- No projeto tem um arquivo chamado ConexaoDAO onde voce vai alterar o `String url` conforme sua maquina.
 
 O `NetBeans` deve executar, aguarde até finalizar. você pode executar o Projeto 🏆 
 
