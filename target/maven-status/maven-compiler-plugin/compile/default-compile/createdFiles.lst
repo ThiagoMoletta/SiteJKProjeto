@@ -1,0 +1,5 @@
+br\com\DAO\OrcamentoDAO.class
+br\com\DTO\OrcamentoDTO.class
+br\com\DAO\ConexaoDAO.class
+com\mycompany\projetobiblioteca\resources\JakartaEE10Resource.class
+com\mycompany\projetobiblioteca\JakartaRestConfiguration.class
